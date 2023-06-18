@@ -5,4 +5,5 @@ package com.zjx.InterceptorAndFilter.service;
  * @date 2023/6/18
  */
 public interface IndexService {
+    String index();
 }
